@@ -30,6 +30,7 @@ Adaptations listed here are shared under the same licence.
 | Sticker | Author | Licence | Changes | Source |
 |---|---|---|---|---|
 | NixOS logo | NixOS Project and contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · `LICENSES/CC-BY-4.0.txt` | dark hexagon background | [github.com/NixOS/branding](https://github.com/NixOS/branding) |
+| Rust logo | Rust Foundation | CC BY (version not stated, see [Rust logo policy](https://rustfoundation.org/policies/logo-policy-and-media-guide/)) | white on black | [rustfoundation.org](https://rustfoundation.org/policies/logo-policy-and-media-guide/) |
 | Flatpak logo | flatpak.org | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · `LICENSES/CC-BY-3.0.txt` | die-cut contour added | [flatpak.org/press](https://flatpak.org/press/) |
 
 ## MIT
@@ -62,6 +63,7 @@ Adaptations listed here are shared under the same licence.
 
 ## Trademarks
 
-Codeberg and the Codeberg logo are trademarks of Codeberg e.V. Typst is a trademark of Typst GmbH. OpenWrt is a registered trademark of Software Freedom Conservancy. Elixir is a trademark of
+Codeberg and the Codeberg logo are trademarks of Codeberg e.V. Rust is a trademark of the Rust Foundation. Typst is a
+trademark of Typst GmbH. OpenWrt is a registered trademark of Software Freedom Conservancy. Elixir is a trademark of
 the Elixir Team. Flatpak is a trademark of the GNOME Foundation. All other names and logos belong to their respective
 owners. This is a personal sticker collection and is not affiliated with or endorsed by any of these projects.
